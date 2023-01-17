@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Who am I - Thao
 
 * Where are you from? - Singapore
@@ -14,3 +15,9 @@
 * Which industry will you seek employment in? - anything, NGOs
 * What will your future role look like? - bright
 * What is your career goal? - to get rich with it
+=======
+first line of merge
+
+
+now i am creating conflicts
+>>>>>>> 7c8708f77efaa268c9322d775505a0edd30d94bd
