@@ -1,1 +1,16 @@
-first line of merge
+# Who am I - Thao
+
+* Where are you from? - Singapore
+* What do you do? - I do sales
+* Do you have previous experience with technology/data? - little
+
+# Why am I here - to learn new skills
+
+* What has brought you to Ironhack? - google ads
+* What knowledge/skills do you expect to learn in this bootcamp? - flowcharts
+
+# What will I do after the bootcamp? - find new career
+
+* Which industry will you seek employment in? - anything, NGOs
+* What will your future role look like? - bright
+* What is your career goal? - to get rich with it
